@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A D flip-flop works by taking the value on its input (D) and transferring it to its output (Q) only on the active edge of the clock signal. When the clock edge occurs, the flip-flop “samples” the input and holds that value steady until the next clock event, regardless of how the input changes afterward. If a reset signal is present, it forces the output to a known state, usually zero. This behavior makes the D flip-flop a fundamental building block for storing and sequencing data in digital systems.
 
 ## How to test
 
-Explain how to use your project
+Refer Truth Table section of the report
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
